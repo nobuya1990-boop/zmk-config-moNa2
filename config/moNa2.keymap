@@ -98,7 +98,7 @@
 &trans  &trans  &trans  &trans  &trans  &trans    &trans       &trans                                                  &bt BT_CLR_ALL
             >;
 
-            sensor-bindings = <&scroll_up_down>, <&inc_dec_kp 0 0>;
+            sensor-bindings = <&scroll_up_down>;
         };
 
         MOUSE {
